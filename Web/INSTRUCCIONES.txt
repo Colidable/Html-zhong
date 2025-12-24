@@ -1,0 +1,60 @@
+═══════════════════════════════════════════════════════════════
+  INSTRUCCIONES RÁPIDAS - PÁGINA WEB MUSICAL
+═══════════════════════════════════════════════════════════════
+
+✅ LO QUE YA TIENES:
+- index.html (página principal lista)
+- Carpeta "audio" (para tus canciones MP3)
+- Carpeta "images" (para tus imágenes)
+
+📝 PASOS PARA PERSONALIZAR:
+
+1. CAMBIAR EL NOMBRE DEL ARTISTA:
+   Abre index.html y busca "Nombre del Artista" y cámbialo por el nombre real
+
+2. AGREGAR TUS CANCIONES:
+   - Coloca tus archivos MP3 en la carpeta "audio"
+   - En index.html, busca las líneas que dicen:
+     data-src="audio/cancion1.mp3"
+   - Cambia "cancion1.mp3" por el nombre real de tu archivo
+   - Cambia "Canción 1" por el nombre real de la canción
+
+3. AGREGAR IMÁGENES:
+   - Coloca tus imágenes en la carpeta "images"
+   - En index.html, busca las líneas con:
+     src="https://via.placeholder.com/..."
+   - Cámbialas por: src="images/tu-imagen.jpg"
+
+4. CAMBIAR LA BIOGRAFÍA:
+   - Busca el texto que dice "Sobre el Artista"
+   - Escribe la información que quieras compartir
+
+🚀 CÓMO SUBIRLO A INTERNET (ELEGIR UNA OPCIÓN):
+
+OPCIÓN 1: NETLIFY (MÁS FÁCIL) ⭐
+1. Ve a: https://netlify.com
+2. Crea cuenta gratuita
+3. Arrastra tu carpeta "Web" completa
+4. ¡Listo! Tendrás una URL para compartir
+
+OPCIÓN 2: GITHUB PAGES (GRATIS)
+1. Ve a: https://github.com
+2. Crea cuenta y nuevo repositorio
+3. Sube todos los archivos
+4. Ve a Settings → Pages → Activa GitHub Pages
+5. Tu URL será: https://tuusuario.github.io/nombre-repositorio
+
+OPCIÓN 3: VERCEL (GRATIS)
+1. Ve a: https://vercel.com
+2. Crea cuenta
+3. Sube tu carpeta o conecta GitHub
+4. ¡Listo!
+
+💡 CONSEJOS:
+- Prueba primero abriendo index.html en tu navegador
+- Los archivos MP3 deben estar en formato MP3
+- Las imágenes funcionan mejor en formato JPG o PNG
+- Usa nombres de archivo sin espacios (usa guiones: mi-cancion.mp3)
+
+═══════════════════════════════════════════════════════════════
+
